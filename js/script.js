@@ -18,5 +18,6 @@ while(i<spesa.length){
     // INCREMENTO LA VARIABILE INDICE
     i++;
 
-    
+    // APPENDO IL LIST ITEM ALL'INTERNO DELLA LISTA DELLA SPESA
+    lista_spesa.append(li);
 }
